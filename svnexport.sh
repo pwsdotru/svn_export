@@ -3,6 +3,7 @@
 # Author: Aleksandr Novikov
 # E-mail: pwsdotru@gmail.com
 # Github: https://github.com/pwsdotru/svn_export
+# Website: http://pws.ru/
 #
 function baner_message()
 {
