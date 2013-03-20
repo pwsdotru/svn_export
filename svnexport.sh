@@ -1,5 +1,9 @@
 #!/bin/sh
-
+#
+# Author: Aleksandr Novikov
+# E-mail: pwsdotru@gmail.com
+# Github: https://github.com/pwsdotru/svn_export
+#
 function baner_message()
 {
 	echo "Usage: $0 <SVN_PATH> <REVISION> [<SAVE_PATH>]"
